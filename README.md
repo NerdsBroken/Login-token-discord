@@ -1,15 +1,15 @@
 # 🅱️ Login Token Discord
 
-Os Maiores Merds Da Web...
+Os Maiores Nerds Da Web...
 
 ![Imagem de Demonstração](https://media.discordapp.net/attachments/1158252997705474184/1160464113785393172/Novo_projeto_6_5C7AC78.gif?ex=6534c16d&is=65224c6d&hm=73b456cc74b88592d194e6b3282aa2901fa8bc9c1620be78f3df38c419368c2b&)
 
 ## Índice
 
 - [Sobre o Projeto](#sobre-o-projeto)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuições](#contribuições)
+- [Instalar](#Instalação)
+- [Uso](#Uso)
+- [Contatos](#Contatos)
 - [Licença](#licença)
 
 ## Sobre o Projeto
