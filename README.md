@@ -1,6 +1,5 @@
 # 🅱️ Login Token Discord
 
-Os Maiores Nerds Da Web...
 
 ![Imagem de Demonstração](https://media.discordapp.net/attachments/1158252997705474184/1160464113785393172/Novo_projeto_6_5C7AC78.gif?ex=6534c16d&is=65224c6d&hm=73b456cc74b88592d194e6b3282aa2901fa8bc9c1620be78f3df38c419368c2b&)
 
@@ -18,7 +17,7 @@ Os Maiores Nerds Da Web...
 
 ## Instalação
 
-❗️ Tenha em mãos a token... Script estará nos arquivos
+❗️ Tenha em mãos a token... Script estará no arquivo login.txt
 
 ```shell
 Abra seu discord na tela de login > Entre na dev > Cole na console a script > Após isso, cole a token no prompt.
@@ -31,9 +30,9 @@ Abra seu discord na tela de login > Entre na dev > Cole na console a script > Ap
 ## Contatos
 
 ```javascript
-https://discord.gg/broken7
+https://discord.gg/CSKtFjKWWW
 ```
 
 ## Copyright 
 
-Todos os direitos e créditos à Broken.
+Todos os direitos e créditos à Osama.
